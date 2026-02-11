@@ -1,0 +1,12 @@
+.footer {
+  width: 100%;
+  padding: 8px 0;
+  text-align: center;
+  background-color: #0f0303;   /* dark look */
+  color: #fff;
+  font-size: 14px;
+  letter-spacing: 0.5px;
+  font-style: italic;
+  position: relative;
+  bottom: 0;
+}
