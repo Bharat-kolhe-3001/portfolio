@@ -7,6 +7,9 @@
   --glass: rgba(255,255,255,0.03);
   font-family: 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial;
 }
+
+ 
+
 *{box-sizing:border-box}
 html,body,#root{height:100%}
 body{
